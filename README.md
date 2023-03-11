@@ -1,2 +1,2 @@
 # RandomQuoteMachine
-Created with CodeSandbox
+This is a random quote machine that generates random quote
